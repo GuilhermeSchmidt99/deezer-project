@@ -10,7 +10,7 @@
 h1{
     color: white;
     position: fixed;
-    margin-top: 1.4%;
+    margin-top: -1.5%;
     padding-left: 3.8%;
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
@@ -22,4 +22,76 @@ h1{
 .pai{
   width: 100%;
 
+}
+
+#square1 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square2 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square3 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square4 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square5 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square6 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square7 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square8 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
+}
+
+#square9 {
+  width: 8%;
+  height: 130px;
+  background-color: white;
+  margin: 50px;
+  box-shadow: 0 0 30px 2px black;
 }
