@@ -1,7 +1,13 @@
 .bottom-bar {
   width: 100%;
-  display: flex;
+  bottom: 0;
+  position: fixed;
   align-items: center;
   justify-content: center;
   background-color: white;
+}
+
+.item {
+  display: inline-block;
+  width: 100%; 
 }
