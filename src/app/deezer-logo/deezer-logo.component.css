@@ -1,9 +1,8 @@
-img{
-    position: fixed;
-    top: 8px;
-    left: 16px;
+.image{
     height: 55px;
-    width: 3.1%;
-    z-index: 1;
-    
+    width: 50px;
+}
+
+img {
+    width: 100%;
 }

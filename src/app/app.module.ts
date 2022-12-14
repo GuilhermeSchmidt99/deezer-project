@@ -13,7 +13,7 @@ import { DeezerLogoComponent } from './deezer-logo/deezer-logo.component';
     AppComponent,
     HomePageComponent,
     BaseboardComponent,
-    DeezerLogoComponent,
+    DeezerLogoComponent
   ],
   imports: [
     BrowserModule,
