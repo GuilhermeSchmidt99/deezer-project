@@ -1,0 +1,24 @@
+
+.barra {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    height: 7.4%;
+    width: 100%;
+  }
+
+h1{
+    color: white;
+    position: fixed;
+    margin-top: 1.1%;
+    margin-left: 3.2%;
+    right: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+  }
+
+.pai{
+  width: 100%;
+
+}

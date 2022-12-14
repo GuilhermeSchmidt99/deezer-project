@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+}
+html { 
+    background-image: linear-gradient(to bottom, #F75C0C 35%, #F79D0C, #EDAD0C); 
+    background-attachment: fixed;
+}
