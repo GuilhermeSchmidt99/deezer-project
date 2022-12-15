@@ -24,74 +24,17 @@ h1{
 
 }
 
-#square1 {
-  width: 8%;
-  height: 130px;
+.square {
+  
+  height: 115px;
   background-color: white;
-  margin: 50px;
+  margin: 100px;
   box-shadow: 0 0 30px 2px black;
 }
 
-#square2 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
-}
-
-#square3 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
-}
-
-#square4 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
-}
-
-#square5 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
-}
-
-#square6 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
-}
-
-#square7 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
-}
-
-#square8 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
-}
-
-#square9 {
-  width: 8%;
-  height: 130px;
-  background-color: white;
-  margin: 50px;
-  box-shadow: 0 0 30px 2px black;
+h1.menuInPage {
+  position: fixed;
+  margin-left: 41%;
+  color: white;
+  margin-bottom: 50%;
 }
