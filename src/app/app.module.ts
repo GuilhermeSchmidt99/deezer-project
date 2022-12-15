@@ -8,6 +8,7 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { BaseboardComponent } from './baseboard/baseboard.component';
 import { DeezerLogoComponent } from './deezer-logo/deezer-logo.component';
 import { SearchComponent } from './search/search.component';
+import { MusicInformationComponent } from './music-information/music-information.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { SearchComponent } from './search/search.component';
     HomePageComponent,
     BaseboardComponent,
     DeezerLogoComponent,
-    SearchComponent
+    SearchComponent,
+    MusicInformationComponent
   ],
   imports: [
     BrowserModule,

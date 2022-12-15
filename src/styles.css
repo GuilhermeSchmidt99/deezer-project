@@ -9,6 +9,6 @@ body {
 }
 
 html { 
-    background-image: linear-gradient(to bottom, #F75C0C 35%, #F79D0C, #EDAD0C); 
+    background-image: linear-gradient(to bottom, #F49824, #DF4147, #AE3770, #8A4180, #642F8A, #224BC1, #0F81B3, #149989, #1DAA5B ); 
     background-attachment: fixed;
 }

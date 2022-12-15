@@ -25,8 +25,8 @@ h1{
 }
 
 .square {
-  
-  height: 115px;
+  height: 140px;
+  width: 10%;
   background-color: white;
   margin: 100px;
   box-shadow: 0 0 30px 2px black;
